@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\Projects\AndroidStudioProjects\WORK_TESTs\Estafeta\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Android\Projects\AndroidStudioProjects\WORK_TESTs\Estafeta\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-0cddc01daa7e74644af2cb508076097aac1532d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pasichnyk.VP\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.18\38da306aafee11459cd935a01d2c92a98dc670a4\library-1.0.18.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="D:\Android\Projects\AndroidStudioProjects\WORK_TESTs\Estafeta\app\build\intermediates\pre-dexed\debug\library-1.0.18-b3acf6ac5460a2adc7f04cd2e983421b25052682.jar" />
+    </item>
+    <item
+        jar="D:\Android\Projects\AndroidStudioProjects\WORK_TESTs\Estafeta\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Android\Projects\AndroidStudioProjects\WORK_TESTs\Estafeta\app\build\intermediates\pre-dexed\debug\classes-22687dcbb82e505c05e9963152979422d6901f1c.jar" />
+    </item>
+    <item
+        jar="D:\Android\Projects\AndroidStudioProjects\WORK_TESTs\Estafeta\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Android\Projects\AndroidStudioProjects\WORK_TESTs\Estafeta\app\build\intermediates\pre-dexed\debug\classes-88d67c647a5821e005f2cf772da328600a275f4b.jar" />
+    </item>
+    <item
+        jar="D:\Android\Projects\AndroidStudioProjects\WORK_TESTs\Estafeta\app\build\intermediates\exploded-aar\library-2.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="88e8e18d365173ad04a543d76c157e0b644f0b3f">
+        <dex dex="D:\Android\Projects\AndroidStudioProjects\WORK_TESTs\Estafeta\app\build\intermediates\pre-dexed\debug\classes-3e856e169f4f403bdc02a24d0fbecf384ce41ab8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pasichnyk.VP\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Android\Projects\AndroidStudioProjects\WORK_TESTs\Estafeta\app\build\intermediates\pre-dexed\debug\gson-2.3.1-2c89d9eb83a09527c08acc310547fb582cd76648.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Android\Projects\AndroidStudioProjects\WORK_TESTs\Estafeta\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-9792d51791d92eddc0d9758885c1364396bdbf7e.jar" />
+    </item>
+
+</items>
